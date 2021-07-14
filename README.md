@@ -6,14 +6,14 @@ Requires Python3 and pip
 # install opencv
 2. sudo apt update -y
 3. sudo apt install python3-opencv -y
-#check to make sure it installed
+ # check to make sure it installed
 4. python3 -c "import cv2; print(cv2.__version__)"
-#install rospy
+ # install rospy
 5. sudo apt-get install -y python-rospy
-#install matplotlib
+ # install matplotlib
 6. python -m pip install -U matplotlib -y
 
-Note
+ # Notes
 ----------
 This uses a ros publisher and subscriber.
 If you don't use ros comment it our.
