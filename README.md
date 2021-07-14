@@ -1,5 +1,5 @@
 # Text-Detection
-#how to set it up
+# how to set it up
 Requires Python3 and pip
 # install easyocr
 1. pip install easyocr
@@ -16,4 +16,4 @@ Requires Python3 and pip
  # Notes
 ----------
 This uses a ros publisher and subscriber.
-If you don't use ros comment it our.
+If you don't use ros comment it out.
