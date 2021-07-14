@@ -17,3 +17,6 @@ Requires Python3 and pip
 ----------
 This uses a ros publisher and subscriber.
 If you don't use ros comment it out.
+
+ # how to run
+ go into the file and change the image name to your image and change the directories to the directory that your image is in. cd into the directory with the file and run python3 Easyocrtest.py
