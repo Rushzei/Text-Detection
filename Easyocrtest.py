@@ -46,11 +46,6 @@ for (bbox, text, prob) in res:
 
 rospy.loginfo('Published')
 
-#subscribe to the image_raw topic
-
-#image_sub = rospy.Subscriber("/camera/rgb/image_raw", Image, readtext,queue_size=1)
-
-
 #----------------------------------------  
 
 #keeps topic publishing
